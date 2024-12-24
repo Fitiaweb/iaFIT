@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "node index.js",
+  "build": "commande_pour_construire_le_projet"
+}
